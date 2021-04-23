@@ -2,6 +2,10 @@
 ## This is a subheading.
 ### This is a subheading of the above heading.
 
+This is just normal text. While you're here, have you ever used IntelliJ or another
+JetBrains IDE? It's far and away my favorite. It even makes writing markdown easy
+with a split panel showing the editor and preview.
+
 **This is an unordered list of items**
 - Item 1
 - Item 2
@@ -23,3 +27,5 @@
 - [x] Meet the assignment criteria
 
 [Click here to visit other page!](./otherPage.md)
+
+[Click here to visit yet another page!](./otherOtherPage.md)
