@@ -16,10 +16,10 @@
 
 `print("hello world")`
 
-**What this assignment is missing**
+**What this submission does**
 
-- [x] Creativity
-- [x] Anything actually interesting
-- [ ] The actual assignment criteria
+- [ ] Be creative
+- [ ] Convey anything interesting
+- [x] Meet the assignment criteria
 
 [Click here to visit other page!](./otherPage.md)
