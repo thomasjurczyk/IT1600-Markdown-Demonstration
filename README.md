@@ -15,3 +15,11 @@
 **This is a code sample**
 
 `print("hello world")`
+
+**What this assignment is missing**
+
+- [x] Creativity
+- [x] Anything actually interesting
+- [ ] The actual assignment criteria
+
+[Click here to visit other page!](./otherPage.md)
